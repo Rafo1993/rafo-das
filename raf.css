@@ -1,0 +1,36 @@
+.nkarner{
+	border: 5px solid red;
+	display: block;
+	
+}
+.raf {
+	text-align: center;
+}
+#lolo{
+	color:blue;
+	font-size: 18px;
+	border: 1px solid black;
+
+}
+table{
+	text-align: center;
+	border-collapse:collapse;
+}
+
+.raf1{
+	width: 1255px;
+    height: 500px
+}
+.raf2 {
+	background-color: red;
+}
+.raf3{
+	background: blue;
+}
+.raf4{
+	background: green;
+}
+ul{
+
+  list-style-type: square;
+}
